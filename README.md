@@ -1,4 +1,4 @@
-# Create an Auction Projoct
+# Create an Auction Project
 
 ## Install Dependencies
 
