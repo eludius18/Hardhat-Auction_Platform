@@ -25,7 +25,7 @@ npm install dotenv
 npx hardhat compile
 ```
 
-## Deploy the contract on Ropsten
+## Deploy contract on Ropsten
 
 ```shell
 npx hardhat run --network ropsten scripts/deploy.js  
